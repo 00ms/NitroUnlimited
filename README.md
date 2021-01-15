@@ -1,4 +1,6 @@
-# NitroUnlimited
+![](https://img.shields.io/badge/version-1.0-lightgrey.svg)
+![](https://img.shields.io/badge/python-v3.7-blue)
+
 UNLIMITED NITRO GENERATOR. THIS IS A PYTHON SCRIPT WHICH GENERATES A TON OF NITROS AND CHECK'S THEM
 
 SPEED DEPENDS ON YOUR PC
