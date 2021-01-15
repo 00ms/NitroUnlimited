@@ -66,8 +66,7 @@ with open("Codes.txt") as f:
         r = requests.get(url)
 
         if r.status_code == 200:
-            print(f"{bcolors.OKGREEN}" + "HOORAYYYY")
+            print(f"{bcolors.OKGREEN}" + "HOORAYYYY {} " .format(line.strip("\n")))
             break
         else:
-            print(f"{bcolors.WARNING}" + "NOT VALID")
-
+            print(f"{bcolors.WARNING}" + "NOT VALID {} " .format(line.strip("\n")))
