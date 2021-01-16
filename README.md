@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/version-1.0-lightgrey.svg)
-![](https://img.shields.io/badge/python-v3.7-blue)
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 UNLIMITED NITRO GENERATOR. THIS IS A PYTHON SCRIPT WHICH GENERATES A TON OF NITROS AND CHECK'S THEM
 
