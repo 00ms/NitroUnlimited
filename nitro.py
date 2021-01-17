@@ -41,8 +41,6 @@ print("DEVELEOPED BY DISCODANCER212 \n")
 time.sleep(0.8)
 print("NORMALLY TAKES 30 MINUTES TO FIND ONE WORKING CODE \n")
 
-urlopen = ("https://www.instagram.com/luc1d.7/")
-
 num = input('How many codes to generate??: ')
 
 f = open("Codes.txt", "w", encoding='utf-8')
